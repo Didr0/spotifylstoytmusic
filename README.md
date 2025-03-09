@@ -1,5 +1,5 @@
-# spotifylstoytmusic
-transfer liked songs from spotify to ytmusic
+# spotify_to_ytmusic
+transfer any playlist from spotify to ytmusic
 
 SETUP
 
